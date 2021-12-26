@@ -70,5 +70,7 @@ export const FeedbackProvider = ({children}) => {
     )
 }  
 
+// building the mock backend .... HTTP requests. we just deployed to netlify. 
+
 export default FeedbackContext;
 
